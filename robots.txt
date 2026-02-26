@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://ritual-aesthetics-clinic-pk.b-cdn.net/sitemap.xml
+Sitemap: http://aesthetic-treatment-ramadan-pakistan.vercel.app/sitemap.xml
 
 # Google Bot
 User-agent: Googlebot
